@@ -1,0 +1,22 @@
+C:\Users\achraf\Desktop\c# project gui\Gestion des biblio\Gestion des biblio\bin\Debug\Gestion des biblio.exe.config
+C:\Users\achraf\Desktop\c# project gui\Gestion des biblio\Gestion des biblio\bin\Debug\Gestion des biblio.exe
+C:\Users\achraf\Desktop\c# project gui\Gestion des biblio\Gestion des biblio\bin\Debug\Gestion des biblio.pdb
+C:\Users\achraf\Desktop\c# project gui\Gestion des biblio\Gestion des biblio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\achraf\Desktop\c# project gui\Gestion des biblio\Gestion des biblio\bin\Debug\itextsharp.dll
+C:\Users\achraf\Desktop\c# project gui\Gestion des biblio\Gestion des biblio\bin\Debug\itextsharp.xml
+C:\Users\achraf\Desktop\c# project gui\Gestion des biblio\Gestion des biblio\obj\Debug\Gestion des biblio.csproj.AssemblyReference.cache
+C:\Users\achraf\Desktop\c# project gui\Gestion des biblio\Gestion des biblio\obj\Debug\Gestion des biblio.csproj.ResolveComReference.cache
+C:\Users\achraf\Desktop\c# project gui\Gestion des biblio\Gestion des biblio\obj\Debug\Gestion_des_biblio.Acceuil.resources
+C:\Users\achraf\Desktop\c# project gui\Gestion des biblio\Gestion des biblio\obj\Debug\Gestion_des_biblio.CdsControl1.resources
+C:\Users\achraf\Desktop\c# project gui\Gestion des biblio\Gestion des biblio\obj\Debug\Gestion_des_biblio.EmpruntControl1.resources
+C:\Users\achraf\Desktop\c# project gui\Gestion des biblio\Gestion des biblio\obj\Debug\Gestion_des_biblio.EmpruntForm.resources
+C:\Users\achraf\Desktop\c# project gui\Gestion des biblio\Gestion des biblio\obj\Debug\Gestion_des_biblio.Login.resources
+C:\Users\achraf\Desktop\c# project gui\Gestion des biblio\Gestion des biblio\obj\Debug\Gestion_des_biblio.Menu.resources
+C:\Users\achraf\Desktop\c# project gui\Gestion des biblio\Gestion des biblio\obj\Debug\Gestion_des_biblio.PeriodiqueControl1.resources
+C:\Users\achraf\Desktop\c# project gui\Gestion des biblio\Gestion des biblio\obj\Debug\Gestion_des_biblio.Properties.Resources.resources
+C:\Users\achraf\Desktop\c# project gui\Gestion des biblio\Gestion des biblio\obj\Debug\Gestion_des_biblio.LivresControl.resources
+C:\Users\achraf\Desktop\c# project gui\Gestion des biblio\Gestion des biblio\obj\Debug\Gestion_des_biblio.UsersControl1.resources
+C:\Users\achraf\Desktop\c# project gui\Gestion des biblio\Gestion des biblio\obj\Debug\Gestion des biblio.csproj.GenerateResource.cache
+C:\Users\achraf\Desktop\c# project gui\Gestion des biblio\Gestion des biblio\obj\Debug\Gestion des biblio.csproj.CoreCompileInputs.cache
+C:\Users\achraf\Desktop\c# project gui\Gestion des biblio\Gestion des biblio\obj\Debug\Gestion des biblio.exe
+C:\Users\achraf\Desktop\c# project gui\Gestion des biblio\Gestion des biblio\obj\Debug\Gestion des biblio.pdb
